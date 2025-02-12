@@ -1,1 +1,13 @@
-# bitwise_calculator
+# Bitwise Calculator
+
+## Overview
+Bitwise Calculator is an iOS application designed to perform bitwise operations such as AND, OR, XOR, NOT, and shift operations. Built using SwiftUI, this app provides a clean and intuitive interface for users to easily input numbers and perform complex bitwise calculations.
+
+## Features
+- **AND Operation**: Perform a bitwise AND operation between two numbers.
+- **OR Operation**: Perform a bitwise OR operation between two numbers.
+- **XOR Operation**: Perform a bitwise XOR operation between two numbers.
+- **NOT Operation**: Perform a bitwise NOT operation on a single number.
+- **Shift Operations**: Perform left and right shift operations on numbers.
+- **Binary and Hexadecimal Support**: Input numbers in binary, decimal, or hexadecimal formats.
+- **Real-time Results**: Get instant results as you type.
